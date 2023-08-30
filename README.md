@@ -1,4 +1,4 @@
-### Hello World! Sou a Giovanna Siqueira ✨
+### Hello World! I'm Giovanna Siqueira ✨
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giihsiq&show_icons=true&theme=dracula"/>
