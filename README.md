@@ -1,11 +1,13 @@
 ### System.out.print("Hello World! I'm Giovanna Siqueira"); ✨
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giihsiq&show_icons=true&theme=dracula"/>
+  <p>Intern in the Area of Software Development with a Focus on Java</p>
 </div>
 
+  ##
+
 <div>
-  <p>Intern in the Area of Software Development with a Focus on Java</p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giihsiq&show_icons=true&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
