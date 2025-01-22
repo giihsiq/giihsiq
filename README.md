@@ -16,7 +16,7 @@
   </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Giovanna-Java" height="30" width="40" src="https://skillicons.dev/icons?i=java,spring,js,py,docker,postgres">
+  <img align="center" alt="Giovanna-Java" src="https://skillicons.dev/icons?i=java,spring,js,py,docker,postgres">
 </div>
 
   ##
