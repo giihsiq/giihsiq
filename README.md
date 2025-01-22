@@ -1,7 +1,7 @@
 ### System.out.print("Hello World! I'm Giovanna Siqueira"); ✨
 
 <div>
-  <p>Intern Java Developer and Systems Development Analysis student.</p>
+  <h2>Intern Java Developer and Systems Development Analysis student.</h2>
 </div>
 
   ##
