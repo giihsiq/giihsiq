@@ -4,6 +4,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giihsiq&show_icons=true&theme=dracula"/>
 </div>
 
+<div>
+  <p>Intern in the Area of Software Development with a Focus on Java</p>
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Giovanna-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
